@@ -72,7 +72,7 @@
         </plugins>
     </build>
     <profiles>
-        <!-- Deprecated: needs to be migrated to the webtests module. -->
+        <!--- Deprecated: needs to be migrated to the webtests module. -->
         <profile>
             <id>performance</id>
             <build>
